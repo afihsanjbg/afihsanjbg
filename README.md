@@ -4,7 +4,15 @@ Perkenalkan nama saya **A'af Fatihul Ihsan**.<br>
 
 Saya seorang mahasiswa Sistem Informasi di Universitas KH. A. Wahab Hasbullah (UNWAHA), serta tenaga kependidikan di SMK Nahdlatul Ulama 01 Jogoroto.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afihsan/) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afihsan/) ku ya.  
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/afihsanjbg">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afihsanjbg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afihsanjbg&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **afihsanjbg/afihsanjbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
