@@ -1,5 +1,10 @@
-## Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **A'af Fatihul Ihsan**.<br>
+
+Saya seorang mahasiswa Sistem Informasi di Universitas KH. A. Wahab Hasbullah (UNWAHA), serta tenaga kependidikan di SMK Nahdlatul Ulama 01 Jogoroto.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afihsan/) ku ya.
 <!--
 **afihsanjbg/afihsanjbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
