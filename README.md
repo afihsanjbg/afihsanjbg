@@ -26,11 +26,21 @@
 
 ## 🛠️ Keahlian & Teknologi (Tech Stack)
 
+**Bahasa Pemrograman & Tools**
 <p align="left">
-  <!-- Kamu bisa menyesuaikan icon ini dengan keahlian yang kamu miliki -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,git,github" alt="Skills" />
   </a>
+</p>
+
+**Machine Learning & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ## 📊 Statistik GitHub (GitHub Stats)
