@@ -61,5 +61,5 @@
 
 ---
 <p align="center">
-  <i>"Tujuan kita belajar itu untuk beradaptasi dengan ilmu dan memperbaiki pola pikir. - Dr. Tirta"</i>
+  <i>"Tujuan kita belajar itu untuk beradaptasi dengan ilmu dan memperbaiki pola pikir." <b>- Dr. Tirta</b></i>
 </p>
