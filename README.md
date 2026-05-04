@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Halo%20Semua!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&desc=Saya%20A'af%20Fatihul%20Ihsan&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
-<h1 align="center">Hi 👋, Saya A'af Fatihul Ihsan</h1>
-<h3 align="center">Mahasiswa Sistem Informasi | Tenaga Kependidikan @ SMK NU 01 Jogoroto</h3>
+<h3 align="center">Tech & Data Enthusiast | Information Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/afihsan/">
@@ -18,9 +17,9 @@
 
 ## 👨‍💻 Tentang Saya (About Me)
 
-- 🎓 Saat ini saya adalah **Mahasiswa Sistem Informasi** di **Universitas KH. A. Wahab Hasbullah (UNWAHA)**.
-- 💼 Saya juga bekerja sebagai **Tenaga Kependidikan** di **SMK Nahdlatul Ulama 01 Jogoroto**.
-- 🌱 Terus belajar dan mengeksplorasi hal-hal baru di dunia teknologi informasi.
+- 🚀 Memiliki fokus dan keahlian di bidang pengembangan **Sistem Informasi**.
+- 💻 Seorang **Tech Enthusiast** dengan pengalaman dan ketertarikan kuat pada *Machine Learning*, *Data Science*, dan *Web Development*.
+- 🌱 Selalu antusias mengikuti perkembangan industri teknologi dan mengeksplorasi inovasi terbaru.
 - 🤝 Terbuka untuk diskusi, koneksi, maupun kolaborasi terkait teknologi dan sistem informasi.
 - 📫 Mari terhubung: Silakan sapa saya melalui [LinkedIn](https://www.linkedin.com/in/afihsan/).
 
